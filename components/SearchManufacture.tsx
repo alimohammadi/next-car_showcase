@@ -1,6 +1,6 @@
 'use client';
 
-import { SearchManufactureProps } from '@/app/types';
+import { SearchManufactureProps } from '@/types';
 import { manufacturers } from '@/constants';
 import { Combobox, Transition } from '@headlessui/react';
 import Image from 'next/image';
